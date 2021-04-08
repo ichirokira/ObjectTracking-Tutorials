@@ -1,0 +1,10 @@
+pandas==1.2.3
+dlib==19.21.1
+streamlit==0.76.0
+streamlit_drawable_canvas==0.6.0
+scipy==1.6.1
+imutils==0.5.4
+numpy==1.19.5
+Pillow==8.2.0
+streamlit_webrtc==0.7.2
+opencv==4.5.1
