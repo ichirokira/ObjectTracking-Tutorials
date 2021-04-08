@@ -9,7 +9,7 @@ import time
 from random import randint
 from streamlit_webrtc import webrtc_streamer, VideoTransformerBase
 from streamlit_drawable_canvas import st_canvas
-import OpenCVTracker_streamlit.SessionState as SessionState
+import SessionState as SessionState
 import streamlit.report_thread as ReportThread
 from streamlit.server.server import Server
 
